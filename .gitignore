@@ -1,3 +1,7 @@
+# Keys and Credentials files
+keys.lua
+credentials.lua
+
 # Compiled Lua sources
 luac.out
 
