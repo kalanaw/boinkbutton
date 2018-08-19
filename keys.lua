@@ -1,1 +1,0 @@
-IFTTT_KEY="" -- Add your IFTTT key for Maker Service Method
